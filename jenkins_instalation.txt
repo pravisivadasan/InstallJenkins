@@ -4,3 +4,5 @@ Install git in the jenkins machine
 
 follow the steps untill instalation, and allow port 8080 from the security group
 
+
+sample test
