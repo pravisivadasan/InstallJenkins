@@ -1,0 +1,6 @@
+https://www.vultr.com/docs/how-to-install-jenkins-on-centos-7
+
+Install git in the jenkins machine
+
+follow the steps untill instalation, and allow port 8080 from the security group
+
